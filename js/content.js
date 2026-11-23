@@ -16,7 +16,7 @@ const SITE = {
 
   /* Contact settings: the "Get in touch" buttons open an email to this address. */
   contact: {
-    email: "johndelaney118@gmail.com",
+    email: "john@delaney-office.com",
     linkedin: "https://www.linkedin.com/in/john-delaney-bb606b450/",
   },
 
